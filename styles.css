@@ -1,0 +1,46 @@
+body{
+  background: wheat;
+  border: 3px dashed #3CB371;
+ border-radius: 4%;
+
+}
+.Title{
+  color: #3CB371;
+font-family: 'Hanalei', cursive;
+font-size: 50px;
+}
+#author{
+  font-size: 30px;
+}
+
+h2{
+  color: #3CB371;
+font-family: 'Raleway', sans-serif;
+font-size: 40px;
+}
+.Nashua{
+  color: #2E8B57;
+  border: 2px solid #4682B4;
+  border-radius: 10%;
+  font-size: 30px;
+  font-family: 'Darker Grotesque', sans-serif;
+
+}
+.Boston{
+  color: #4682B4;
+border: 2px solid #2E8B57;
+font-size: 30px;
+border-radius: 10%;
+font-family: 'Darker Grotesque', sans-serif;
+}
+html{
+  background-color: #008080;
+}
+.bpic{
+  height: 100;
+  width: 150;
+}
+.npic{
+  height: 100;
+  width: 150;
+}
